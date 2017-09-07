@@ -1,0 +1,5 @@
+name = ImgAreaSelect
+description = Simple wrapper for the ImgAreaSelect library (v0.9.11-rc.1) to make it available to other modules.
+backdrop = 1.x
+type = module
+package = Bundled Libraries
